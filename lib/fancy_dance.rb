@@ -24,3 +24,5 @@ module FanceDance
       'This class produces objecst that love to dance.'
     end
   end
+
+end
